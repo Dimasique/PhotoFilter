@@ -1,0 +1,5 @@
+model.pt
+checkpoints_G_coord_resnet50/*
+model.onnx
+
+
